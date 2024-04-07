@@ -1,3 +1,4 @@
 # postman_autotest
-Автотесты на JS в Postman 
+
+Автотесты на JavaScript в Postman 
 autotest for method https://swapi.py4e.com/api
